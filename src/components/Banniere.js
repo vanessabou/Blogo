@@ -6,7 +6,7 @@ function Banniere (){
 
     return <div className="banniere">
             <img src={logo} className="imglogo"/>
-            <h1> Bienvenue sur Blogo </h1>
+            <h1> Bienvenue sur Blogo Déploiement automatique</h1>
     </div>
      
 }
