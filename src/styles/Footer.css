@@ -1,0 +1,13 @@
+.Footer{
+    color: brown;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(162, 198, 230);
+    padding: 1px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    Width: 100%;
+    
+}

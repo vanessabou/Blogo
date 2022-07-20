@@ -1,0 +1,14 @@
+.banniere{
+    background-color: aliceblue;
+    color: blue;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: solid 1px #538397;
+    
+}
+.imglogo{
+    height: 50px;
+    width: 50px;
+}

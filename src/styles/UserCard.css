@@ -1,0 +1,11 @@
+.UserCard{
+    color: black;
+    width: 90%;
+    background: rgb(160, 152, 233);
+    border-radius: 5px;
+    margin-top: 2.5rem;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 80px;
+}
